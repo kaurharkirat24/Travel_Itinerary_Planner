@@ -1,4 +1,4 @@
-ravel Itinerary Planner ✈️🗺️
+Travel Itinerary Planner ✈️🗺️
 
 A Java Swing-based desktop application that helps users plan, organize, and visualize their travel itineraries. The app allows attraction search & filtering, interactive maps, date selection, weather forecasts, and AI-powered itinerary suggestions—all in one place.
 
